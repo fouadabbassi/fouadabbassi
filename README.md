@@ -7,8 +7,8 @@
 <div align="center">
   <h3>🚀 Full Stack Developer | Solution Architect</h3>
   <p><b>fouadabbassi · he/him</b></p>
-  <p>🎓 Graduate of <b>ISTA NTIC Settat</b> in Full Stack Web Development</p>
-  <p>💡 <i>“Building scalable solutions with MERN, Next.js, and Enterprise Java Spring Boot”</i></p>
+  <p>🎓 Graduate of <b>INSTITUT SPECIALISE DE TECHNOLOGIE APPLIQUEE 2 SETTAT</b> in Full Stack Web Development</p>
+  <p>💡 <i>"Building scalable solutions with MERN, Next.js, and Enterprise Java Spring Boot"</i></p>
 </div>
 
 ---
@@ -19,7 +19,7 @@
   <a href="mailto:fouadabbassi148@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3838" />
   </a>
-  <a href="https://linkedin.com/in/fouad--abbassi">
+  <a href="https://linkedin.com/in/fouadabbassi-dev">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3838" />
   </a>
   <a href="https://github.com/fouadabbassi">
@@ -31,9 +31,24 @@
 
 ### 🧠 Tech Stack (My Arsenal)
 
-<p align="center">
+#### 🎨 Frontend Development
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,java,spring,php,laravel,mysql,mongodb,postgres,git,github,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind&theme=dark" />
+  </a>
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,mysql,mongodb,postgres&theme=dark" />
+  </a>
+</p>
+
+#### 🛠️ DevTools & Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
   </a>
 </p>
 
@@ -41,11 +56,11 @@
 
 ### 🛠️ Featured Projects
 
-| Project | Tech Stack | Description |
+| Project | Tech Stack | Key Contribution |
 | :--- | :--- | :--- |
-| **ISTASCO** | MERN + Tailwind | E-commerce solution for industrial protection equipment. |
-| **HERFATI** | Laravel + React | Service-based platform connecting skilled workers. |
-| **MINDMIX** | Node.js + Express | Robust backend infrastructure and optimized schemas. |
+| **ISTASCO** | `MERN` `Tailwind` | Full-stack E-commerce solution with advanced product management. |
+| **HERFATI** | `Laravel` `React` | Optimized service-connecting platform with real-time UI. |
+| **MINDMIX** | `NodeJS` `Express` | Scalable backend infrastructure and high-performance database schemas. |
 
 ---
 
